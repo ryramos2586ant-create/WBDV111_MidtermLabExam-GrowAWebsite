@@ -8,7 +8,8 @@ _Group/Members:_ **Rylei Xian Y. Ramos(Leader) - Keziah Tan(Coder) - Rafael Sieg
 ________________________________________________________________________________________________________________________________________________________________________________________
 _Course/Section:_ **BSIT 1-Y2-Y3**
 ________________________________________________________________________________________________________________________________________________________________________________________
-_Projection Description:_ **The project consists of the following, CSS, HTML, Most of the uses conotains lots of trial and error, but overall the project turned out great.**
+_Projection Description:_ **The project consists of the following, CSS, HTML, Most of the uses conotains lots of trial and error, but overall the project turned out great.
+And side note: We decided to go for a modern look in our website like the other establishment does, cause we saw that the one we did in figma is quite outdated and not very appealing for the customers.**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 _Features Implemented:_ **Multi-page, Static, UI Layout, Control of Keyframes, and the designs are meant to appeal to the eyes, dark tone yet not too dark, branded texts/headers/etc. All of the features that'll be shown via screenshots are only for the visuals.**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
