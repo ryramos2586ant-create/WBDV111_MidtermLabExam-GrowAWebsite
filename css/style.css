@@ -224,16 +224,21 @@ footer {
     gap: 10px;
   }
 
-  .hero-text p {
-    margin-bottom: 30px;
-  }
   nav a {
     margin-left: 0;
     font-size: 14px;
   }
 
+  .hero-text p {
+    margin-bottom: 50px;
+  }
+
+  .hero-text h1 {
+    line-height: 1.4;
+  }
+
   .hero img {
-    height: 250px;
+    height: 3000px;
   }
   .contact-card {
     width: 90%;
