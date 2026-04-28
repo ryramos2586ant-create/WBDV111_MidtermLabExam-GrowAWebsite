@@ -245,7 +245,6 @@ footer {
     font-size: 1.5rem;
   }
 
-  /* Make menu cards bigger on tiny screens for easier clicking */
   .menu-grid {
     grid-template-columns: 1fr; 
   }
