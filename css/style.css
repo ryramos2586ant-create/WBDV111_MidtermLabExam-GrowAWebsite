@@ -209,3 +209,44 @@ footer {
   background: #1b1b1b;
   border-top: 2px solid #ffcc00;
 }
+
+@media (max-width: 768px) {
+  
+  .header-inner {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  nav a {
+    margin-left: 0;
+    font-size: 14px;
+  }
+
+  .hero img {
+    height: 250px;
+  }
+  .contact-card {
+    width: 90%;
+  }
+}
+@media (max-width: 480px) {
+  .brand {
+    font-size: 1.2rem;
+  }
+
+  .hero-text h1 {
+    font-size: 1.5rem;
+  }
+
+  /* Make menu cards bigger on tiny screens for easier clicking */
+  .menu-grid {
+    grid-template-columns: 1fr; 
+  }
+}
