@@ -16,7 +16,7 @@ body {
 header {
   background: #1b1b1b;
   border-bottom: 2px solid #ffcc00;
-  padding: 15px;
+  padding: 5px;
 
   position: fixed;
   top: 0;
@@ -263,31 +263,17 @@ footer {
   }
 
   body {
-  padding-top: 140px !important;
+  padding-top: 80px !important; 
 }
 
 @media screen and (max-width: 768px) {
   body {
-    padding-top: 200px !important;
+    padding-top: 120px !important;
   }
 }
 
-.hero, .form-box, .contact-card {
-  margin-top: 10px !important;
+.form-box, .contact-card {
+  max-width: 500px !important;
+  margin: 40px auto !important;
 }
-
-@media screen and (min-width: 769px) {
-  .form-box, .contact-card {
-    margin-top: 80px !important;
-    max-width: 90% !important;
-    width: 100%;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    padding: 60px !important; 
-  }
-
-  .form-box input, .contact-card input {
-    padding: 20px !important;
-    font-size: 1.2rem !important;
-  }
 }
