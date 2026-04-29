@@ -15,8 +15,8 @@ body {
 /* HEADER */
 header {
   background: #1b1b1b;
-  border-bottom: 2px solid #ffcc00;
-  padding: 2px;
+  border-bottom: 1px solid #ffcc00;
+  padding: 0px;
   position: fixed;
   top: 0;
   width: 100%;
@@ -262,17 +262,17 @@ footer {
   }
 
   body {
-  padding-top: 65px !important; 
+  padding-top: 100px !important; 
 }
 
 @media screen and (max-width: 768px) {
   body {
-    padding-top: 100px !important;
+    padding-top: 140px !important;
   }
 }
 
 .form-box, .contact-card {
   max-width: 500px !important;
-  margin: 40px auto !important;
+  margin: 30px auto !important;
 }
 }
