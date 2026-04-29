@@ -274,5 +274,24 @@ nav {
   nav {
     flex-direction: column;
 }
+  form, .content-box {
+  max-width: 450px;
+  margin: 40px auto;
+  padding: 25px;
+  border: 1.5px solid #ffcc00;
+  border-radius: 10px;
+}
+
+.header-inner {
+  padding: 20px 5%;
+}
+
+@media screen and (max-width: 480px) {
+  form, .content-box {
+    width: 92%;
+    margin-top: 20px;
+  }
+}
+
 }
 }
