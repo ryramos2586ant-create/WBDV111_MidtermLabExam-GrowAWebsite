@@ -261,4 +261,13 @@ footer {
   .menu-grid {
     grid-template-columns: 1fr; 
   }
+
+  body {
+  padding-top: 100px;
+}
+
+form, .content-box, .hero {
+  margin-top: 20px;
+}
+
 }
